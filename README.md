@@ -1,4 +1,4 @@
-# Himanshu Gautam
+# Himanshu 
 
 Financial Advisor at CIBC. IFIC licensed. AI Compliance Builder.
 
