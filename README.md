@@ -2,21 +2,19 @@
 
 Financial Advisor at CIBC. IFIC licensed. AI Compliance Builder.
 
-I work inside regulated finance and build proof-backed AI systems on my own time. My work sits at the intersection of banking, AML/KYC, blockchain monitoring, AI enablement, and autonomous agent systems.
-
-The principle behind most of my projects is simple:
+I work inside regulated finance and build proof-backed AI systems on my own time. The common thread is simple: finance systems should not only sound smart. They should leave receipts.
 
 > No proof row, no product claim.
 
-Plain English: if I claim a system works, I want a source behind it. Ledger, report, test, README, or human review. The point is not to hide the work. The point is to show it with receipts.
+That means every serious claim should point to a source: a rule manifest, test, ledger, audit report, public demo, dashboard, or human review. Especially in finance.
 
 ## What I Build
 
 - AML and financial-crime detection systems.
-- Agent health and proof-reporting loops.
 - AI workflow tools for finance and compliance teams.
+- Agent systems that wake up, check evidence, write reports, and preserve handoffs.
 - Blockchain monitoring and risk-research labs.
-- Public writing around finance, AI, and agent systems.
+- Public writing about finance, AI, compliance, and agent operations.
 
 ## Featured Work
 
@@ -25,41 +23,49 @@ Plain English: if I claim a system works, I want a source behind it. Ledger, rep
 Rule-based blockchain AML detection with a public demo and documented rules manifest.
 
 - Python, Streamlit, AML typologies, transaction monitoring.
-- Patterns include structuring, layering, smurfing, fan-in/fan-out, sub-threshold tranching, and sybil behavior.
+- Patterns include structuring, layering, smurfing, fan-in and fan-out, sub-threshold tranching, and sybil behavior.
 - Human judgment stays in the loop for legal or regulatory conclusions.
+
+What this proves: I can translate compliance ideas into working detection logic, explain the rules, and keep the proof source visible.
 
 ### Agent Systems Portfolio
 
-A personal lab for building agents that wake up, check evidence, produce reports, and explain their own limits.
+A personal lab for building agents that can run longer than one chat window.
 
 - Daily proof briefs.
 - Ledger-backed status reports.
 - Validator-first operating doctrine.
-- Obsidian memory and mission logs.
+- Obsidian memory, session logs, and project caretaker reports.
+- Human approval gates for live or external actions.
+
+What this proves: I can design agent workflows with memory, evidence, safety boundaries, and handoffs.
 
 ### Bionic Banker
 
-Public notes on finance, AI, blockchain, compliance, and the systems I am building.
+My public writing surface for finance, AI, blockchain, and the systems I am building.
 
 Website: https://bionicbanker.tech
 
+What this proves: I can explain technical work in plain language for finance and operator audiences.
+
+## Current Positioning
+
+I am looking for roles around:
+
+- AI compliance and financial crime automation.
+- AI enablement for banking, wealth, and operations teams.
+- Crypto operations, AML, and blockchain risk.
+- Agent systems, internal tools, and proof dashboards.
+- Fintech operations where domain judgment and automation both matter.
+
 ## Tools I Work With
 
-- AI agents: Codex, Claude Code, Cloud Code, local Ollama models, validation contracts.
-- Memory: Obsidian, Markdown operating docs, AGENT files, session logs.
+- AI agents: Codex, Claude Code, Cloud Code, OpenClaw-style workflows, local Ollama models, validation contracts.
+- Memory: Obsidian, Markdown operating docs, AGENT files, session logs, proof maps.
 - Backend: Python, FastAPI, Streamlit, JSONL, SQLite-style state, systemd, cron.
 - Web: Astro, Cloudflare Pages, GitHub Actions.
 - Blockchain: BNB Chain, Solana, public RPCs, Blockscout, DeFiLlama, Jupiter and Pyth research feeds.
 - Visibility: Telegram reports, dashboards, daily proof briefs.
-
-## Current Focus
-
-I am exploring how financial-services teams can use AI safely:
-
-- Better internal workflows.
-- Clearer compliance documentation.
-- AI literacy for non-technical teams.
-- Agent systems with proof, validation, and escalation boundaries.
 
 ## How I Think About AI
 
@@ -69,8 +75,12 @@ For finance, that means:
 
 - A dashboard is visibility, not truth.
 - A notification is visibility, not truth.
-- Source documents, ledgers, tests, and human approval are truth layers.
+- Source documents, ledgers, tests, audits, and human approval are truth layers.
 - Any system that cannot explain what it saw should not be trusted with decisions.
+
+## Public Safety Boundary
+
+My public projects are personal systems built outside employer infrastructure. I do not publish client data, employer-owned systems, private credentials, IPs, ports, wallet details, or internal screenshots.
 
 ## Contact
 
