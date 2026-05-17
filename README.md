@@ -8,6 +8,28 @@ I work inside regulated finance and build proof-backed AI systems on my own time
 
 That means every serious claim should point to a source: a rule manifest, test, ledger, audit report, public demo, dashboard, or human review. Especially in finance.
 
+## Selected Proof
+
+### AML Detection Engine
+
+Blockchain AML detection engine with 28 mapped detection abilities and 23 direct detection functions. Benchmark summary: 94.9% detection on a labeled transaction dataset, with triage tiers for high-priority review.
+
+- GitHub: https://github.com/hash02/aml-detection-engine
+- Live demo: https://aml-detection-engine-ewxnmkbekcg8scjjes7caa.streamlit.app/
+
+### Hermes Kite
+
+Autonomous portfolio research agent with Kite testnet settlement proof. Submitted to Kite AI Global Hackathon 2026.
+
+- GitHub: https://github.com/hash02/hermes-kite
+
+### Bionic Banker
+
+Public writing and project surface for finance, AI, blockchain, and agent-system experiments.
+
+- Website: https://bionicbanker.tech
+- GitHub: https://github.com/hash02/bionic-banker
+
 ## What I Build
 
 - AML and financial-crime detection systems.
