@@ -1,108 +1,88 @@
-# Himanshu 
+# Himanshu
 
-Financial Advisor at CIBC. IFIC licensed. AI Compliance Builder.
+Financial advisor and computer engineer working at the intersection of regulated finance, AI systems, AML, blockchain risk, and human-review controls.
 
-I work inside regulated finance and build proof-backed AI systems on my own time. The common thread is simple: finance systems should not only sound smart. They should leave receipts.
+I build small proof-backed systems that make finance and AI claims easier to inspect. The pattern is simple:
 
-> No proof row, no product claim.
-
-That means every serious claim should point to a source: a rule manifest, test, ledger, audit report, public demo, dashboard, or human review. Especially in finance.
-
-## Selected Proof
-
-### AML Detection Engine
-
-Blockchain AML detection engine with 28 mapped detection abilities and 23 direct detection functions. Benchmark summary: 94.9% detection on a labeled transaction dataset, with triage tiers for high-priority review.
-
-- GitHub: https://github.com/hash02/aml-detection-engine
-- Live demo: https://aml-detection-engine-ewxnmkbekcg8scjjes7caa.streamlit.app/
-
-### Hermes Kite
-
-Autonomous portfolio research agent with Kite testnet settlement proof. Submitted to Kite AI Global Hackathon 2026.
-
-- GitHub: https://github.com/hash02/hermes-kite
-
-### Bionic Banker
-
-Public writing and project surface for finance, AI, blockchain, and agent-system experiments.
-
-- Website: https://bionicbanker.tech
-- GitHub: https://github.com/hash02/bionic-banker
+```text
+source -> model or rule -> evidence -> boundary -> human review
+```
 
 ## What I Build
 
-- AML and financial-crime detection systems.
-- AI workflow tools for finance and compliance teams.
-- Agent systems that wake up, check evidence, write reports, and preserve handoffs.
-- Blockchain monitoring and risk-research labs.
-- Public writing about finance, AI, compliance, and agent operations.
+- AML and financial-crime review tools.
+- AI workflow systems for finance, risk, and operations.
+- Blockchain monitoring and wallet-risk research surfaces.
+- Human-in-the-loop agent controls.
+- Public explainers on AI models, fintech, crypto infrastructure, and evidence trails.
 
-## Featured Work
+## Selected Work
 
 ### AML Detection Engine
 
-Rule-based blockchain AML detection with a public demo and documented rules manifest.
+A blockchain AML review engine that turns transaction rows into risk flags, rule reasons, evidence notes, and a human-review queue.
 
-- Python, Streamlit, AML typologies, transaction monitoring.
-- Patterns include structuring, layering, smurfing, fan-in and fan-out, sub-threshold tranching, and sybil behavior.
-- Human judgment stays in the loop for legal or regulatory conclusions.
-
-What this proves: I can translate compliance ideas into working detection logic, explain the rules, and keep the proof source visible.
-
-### Agent Systems Portfolio
-
-A personal lab for building agents that can run longer than one chat window.
-
-- Daily proof briefs.
-- Ledger-backed status reports.
-- Validator-first operating doctrine.
-- Obsidian memory, session logs, and project caretaker reports.
-- Human approval gates for live or external actions.
-
-What this proves: I can design agent workflows with memory, evidence, safety boundaries, and handoffs.
+- GitHub: https://github.com/hash02/aml-detection-engine
+- Live demo: https://aml-detection-engine-ewxnmkbekcg8scjjes7caa.streamlit.app/
+- Focus: AML typologies, transaction monitoring, review queues, source-visible rules.
+- Boundary: triage and education only. It does not accuse, file, freeze, approve, or replace compliance judgment.
 
 ### Bionic Banker
 
-My public writing surface for finance, AI, blockchain, and the systems I am building.
+A public proof surface for AI-finance control maps: model explainers, project notes, source trails, evidence packets, and practical boundaries for AI in finance.
 
-Website: https://bionicbanker.tech
+- Website: https://bionicbanker.tech
+- GitHub: https://github.com/hash02/bionic-banker
+- Focus: AI models, agent controls, AML, fintech, crypto infrastructure, and evidence-led writing.
+- Boundary: educational research and project demos. No trading, legal, tax, investment, or compliance advice.
 
-What this proves: I can explain technical work in plain language for finance and operator audiences.
+### Agent Framework Proof
 
-## Current Positioning
+A governed-agent demo for retrieval, tool calls, safety checks, queue state, trace records, role boundaries, and audit rows.
 
-I am looking for roles around:
+- GitHub: https://github.com/hash02/agent-framework-proof
+- Focus: agent boundaries, review gates, source trails, and traceable outputs.
+- Boundary: proof environment only. It does not approve customer decisions or operate production systems.
 
-- AI compliance and financial crime automation.
-- AI enablement for banking, wealth, and operations teams.
-- Crypto operations, AML, and blockchain risk.
-- Agent systems, internal tools, and proof dashboards.
-- Fintech operations where domain judgment and automation both matter.
+### Bionic Lab App
 
-## Tools I Work With
+A compact finance-intelligence dashboard for signals, planning, AML views, and market context using public demo data.
 
-- AI agents: Codex, Claude Code, Cloud Code, OpenClaw-style workflows, local Ollama models, validation contracts.
-- Memory: Obsidian, Markdown operating docs, AGENT files, session logs, proof maps.
-- Backend: Python, FastAPI, Streamlit, JSONL, SQLite-style state, systemd, cron.
-- Web: Astro, Cloudflare Pages, GitHub Actions.
-- Blockchain: BNB Chain, Solana, public RPCs, Blockscout, DeFiLlama, Jupiter and Pyth research feeds.
-- Visibility: Telegram reports, dashboards, daily proof briefs.
+- GitHub: https://github.com/hash02/bionic-lab
+- Focus: dashboard packaging, public demo state, charts, and guardrails.
+- Boundary: demo surface only. It does not connect to accounts, move funds, or give investment advice.
 
-## How I Think About AI
+## How I Think About AI in Finance
 
-AI should not be treated as magic. It should be treated as a coworker that needs memory, evidence, constraints, and review.
+AI output is useful when it can be reviewed. In finance, that means the system should show:
 
-For finance, that means:
+- what source was used;
+- what the model or rule produced;
+- what evidence supports the output;
+- what the system is not allowed to decide;
+- where human review happens before action.
 
-- A dashboard is visibility, not truth.
-- A notification is visibility, not truth.
-- Source documents, ledgers, tests, audits, and human approval are truth layers.
-- Any system that cannot explain what it saw should not be trusted with decisions.
+A model answer is not a decision. A dashboard is not truth by itself. Useful systems leave reviewable evidence.
 
-## Public Safety Boundary
+## Current Focus
 
-My public projects are personal systems built outside employer infrastructure. I do not publish client data, employer-owned systems, private credentials, IPs, ports, wallet details, or internal screenshots.
+- AI-finance control maps.
+- AML and wallet-risk review surfaces.
+- Human-in-the-loop agent workflows.
+- AI model literacy for finance, fintech, and crypto infrastructure.
+- Evidence packets: claim, source, output, boundary, and next review step.
+
+## Tools and Stack
+
+- Python, FastAPI, Streamlit, SQLite, JSON/JSONL.
+- Astro, static sites, Cloudflare Pages, GitHub Actions.
+- AI coding and research agents with review gates.
+- Public blockchain data, AML typologies, wallet-risk notes, and source-backed finance research.
+- Markdown docs, system cards, model cards, checklists, and testable project packages.
+
+## Public Boundary
+
+My public projects use public data, synthetic/demo data, or personal research artifacts. I do not publish client data, employer-owned systems, private credentials, private infrastructure details, wallet secrets, or account screenshots.
 
 ## Contact
 
